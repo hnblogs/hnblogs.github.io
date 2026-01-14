@@ -71,6 +71,7 @@
     (format s "    <meta charset=\"UTF-8\">~%")
     (format s "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">~%")
     (format s "    <link rel=\"stylesheet\" href=\"style.css\">~%")
+    (format s "    <link rel=\"icon\" type=\"image/png\" href=\"favicon.png\">~%")
     (format s "    <script src=\"script.js\"></script>~%")
     (format s "  </head>~%")
     (format s "  <body>~%")
