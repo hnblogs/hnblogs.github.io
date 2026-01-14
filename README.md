@@ -36,11 +36,11 @@ requesting its inclusion in the directory:
 
  1. The website must be a personal website, where the author of the
     website has full control of its design and content.  Websites
-    hosted on personal domains clearly qualify.  Blogs hosted on
-    publishing platforms such as Medium or Substack do not qualify.
-    Websites hosted on services such as Neocities, GitHub Pages or
-    Codeberg Pages do qualify, as these platforms allow full control
-    over the site's design.
+    hosted on personal domains clearly qualify.  Websites hosted on
+    services such as Neocities, GitHub Pages or Codeberg Pages also
+    qualify, as these platforms allow full control over the site's
+    design.  However, blogs hosted on publishing platforms such as
+    Medium or Substack do not qualify.
 
  2. Visit https://news.ycombinator.com/from?site=example.com and
     replace `example.com` in the URL the website's domain.  Review the
@@ -50,15 +50,15 @@ requesting its inclusion in the directory:
 
     For example, a website that has a single HN post with 100 points
     qualifies.  A website with two HN posts with 60 and 40 points
-    respectively also qualify.  However, seven posts with 15 points
-    each do not.  Put another way, this criterion looks for an average
-    of at least 20 points per post across the top five posts from the
-    website on HN.
+    respectively also qualify.  However, a website with seven HN posts
+    with 15 points each does not qualify.  Put another way, this
+    criterion looks for an average of at least 20 points per post
+    across the top five posts from the website on HN.
 
 If a website satisfies both criteria above, proceed with the
 submission process laid out in the next section.  These requirements
 help ensure that our directory remains interesting and substantive.
-They prevent iour directory from becoming a collection of minimal or
+They prevent our directory from becoming a collection of minimal or
 placeholder websites with little content of value to the community.
 
 If a website does not satisfy the above criteria but you think it is
