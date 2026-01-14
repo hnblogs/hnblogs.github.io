@@ -17,7 +17,7 @@
  (:name "John Graham-Cumming"
   :site "https://jgc.org/"
   :feed "https://blog.jgc.org/feeds/posts/default"
-  :about "https://www.seangoedecke.com/about"
+  :about "https://en.wikipedia.org/wiki/John_Graham-Cumming"
   :blog "https://blog.jgc.org/"
   :hnuid "jgc"
   :bio "Original writer of POPFile.  Member of the board of directors at Cloudflare.")
