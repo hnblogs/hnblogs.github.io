@@ -393,6 +393,13 @@
   :hnuid "peterbe"
   :bio "Web developer.  Writes about Python, TypeScript, side projects and technology.")
 
+ (:name "Peter Demin"
+  :site "https://peter.demin.dev/"
+  :blog "https://peter.demin.dev/life.html"
+  :feed "https://peter.demin.dev/life..xml"
+  :hnuid "peterdemin"
+  :bio "Writes about Python, vim, git, self-hosting and software engineering in general.")
+
  (:name "Peter Kankowski"
   :site "https://www.strchr.com/"
   :feed "https://www.strchr.com/?feed=/"
