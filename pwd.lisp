@@ -380,6 +380,13 @@
   :hnuid "neilkakkar"
   :bio "Software engineer.  Writes about technology, psychology and critical thinking.")
 
+ (:name "Mike Kasberg"
+  :site "https://www.mikekasberg.com/"
+  :blog "https://www.mikekasberg.com/blog/"
+  :feed "https://www.mikekasberg.com/feed.xml"
+  :hnuid "mkasberg"
+  :bio "Husband. Father. Software engineer. Ubuntu Linux user.")
+
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
   :feed "https://nchagnet.pages.dev/rss.xml"
