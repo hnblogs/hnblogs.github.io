@@ -161,6 +161,13 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
+ (:name "Laurent P. René de Cotret"
+  :site "https://laurentrdc.xyz/"
+  :feed "https://laurentrdc.xyz/atom.xml"
+  :about: "https://laurentrdc.xyz/about"
+  :hnuid "cosmic_quanta"
+  :bio "Writes about software and functional programming. On the Haskell Foundation board of directors.")
+ 
  (:name ""
   :site ""
   :blog ""
