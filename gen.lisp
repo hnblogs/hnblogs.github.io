@@ -39,7 +39,7 @@
     (dolist (item items)
       (setf curr-name (getf item :name))
       (when (and prev-name (string< curr-name prev-name))
-        (err "~a: Not in alphabetical order" curr-name))
+        (err "~a: Entries must be sorted alphabetically by name" curr-name))
       (setf prev-name curr-name))))
 
 (defun validate-bio-length (items)
@@ -48,15 +48,22 @@
     (let ((bio (getf item :bio))
           (max-len 80))
       (when (and bio (> (length bio) max-len))
-        (err "~a: Bio of length ~a exceeds ~a"
+        (err "~a: Bio of length ~a exceeds maximum allowed length ~a"
              (getf item :name) (length bio) max-len)))))
+
+(defun validate-bio-ampersand (items)
+  "Check that bio entries end with a full stop and contain no ampersands."
+  (dolist (item items)
+    (let ((bio (getf item :bio)))
+      (when (and bio (position #\& bio))
+        (err "~a: Bio must not contain ampersand (&)" (getf item :name))))))
 
 (defun validate-bio-stop (items)
   "Check that bio entries end with a full stop."
   (dolist (item items)
     (let ((bio (getf item :bio)))
       (when (and bio (char/= (char bio (1- (length bio))) #\.))
-        (err "~a: Bio does not end with a full stop" (getf item :name))))))
+        (err "~a: Bio must end with a full stop" (getf item :name))))))
 
 (defun validate-unique-urls (items)
   "Check that there are no duplicates in the URLs within the same entry."
@@ -66,7 +73,7 @@
                                               (getf item :feed)
                                               (getf item :about)
                                               (getf item :now))))
-      (err "~a: Entry has duplicate URLs" (getf item :name)))))
+      (err "~a: Entry must not have duplicate URLs" (getf item :name)))))
 
 (defun weekday-name (weekday-index)
   "Given an index, return the corresponding day of week."
@@ -210,6 +217,7 @@
     (validate-name-order entries)
     (validate-unique-urls entries)
     (validate-bio-length entries)
+    (validate-bio-ampersand entries)
     (validate-bio-stop entries)
     (write-file "pwd.opml" (make-opml entries))
     (write-file "index.html" (make-html entries))))
