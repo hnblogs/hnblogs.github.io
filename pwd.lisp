@@ -200,6 +200,13 @@
   :hnuid "zahlman"
   :bio "Tools developer and Python educator.")
 
+ (:name "Keshav Rao"
+  :site "https://keshavrao.com/"
+  :blog "https://keshavrao.com/blog/"
+  :feed "https://keshavrao.com/feed.xml"
+  :hnuid "keshav55"
+  :bio "Loves creating experiences people love.")
+
  (:name "Kevin Scott Dias"
   :site "https://www.kevinsdias.com/"
   :blog "https://www.kevinsdias.com/writing.html"
