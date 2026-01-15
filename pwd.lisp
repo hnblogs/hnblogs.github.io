@@ -320,6 +320,14 @@
   :hnuid "simonw"
   :bio "Creator of Datasette and co-creator of Django.")
 
+ (:name "Stefan Judis"
+  :site "https://www.stefanjudis.com/"
+  :blog "https://www.stefanjudis.com/blog"
+  :feed "https://www.stefanjudis.com/rss.xml"
+  :about "https://www.stefanjudis.com/about/"
+  :hnuid "stefanjudis"
+  :bio "Frontend developer, web educator and blogger.")
+  
  (:name "Steven DeGraeve"
   :site "https://www.degraeve.com/"
   :blog "https://www.degraeve.com/blog/"
@@ -365,14 +373,6 @@
   :feed "https://xeiaso.net/blog.rss"
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
-
- (:name "Stefan Judis"
-  :site "https://www.stefanjudis.com/"
-  :blog "https://www.stefanjudis.com/blog"
-  :feed "https://www.stefanjudis.com/rss.xml"
-  :about "https://www.stefanjudis.com/about/"
-  :hnuid "stefanjudis"
-  :bio "Frontend developer, web educator and blogger.")
 
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
