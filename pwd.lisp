@@ -353,6 +353,14 @@
   :hnuid "TonyAlicea10"
   :bio "Udemy and Pluralsight author, conference speaker.  Writes about AI, dev and UX.")
 
+ (:name "Vijeth P H"
+  :site "https://vijethph.github.io/"
+  :blog "https://vijethph.github.io/ruminations/"
+  :feed "https://vijethph.github.io/ruminations/rss.xml"
+  :about "https://vijethph.github.io/ruminations/about"
+  :hnuid "vijethph"
+  :bio "Student at University College Dublin; former senior software engineer.")
+
  (:name "WillAbides"
   :site "https://willabides.com"
   :feed "https://willabides.com/index.xml"
