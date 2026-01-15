@@ -159,6 +159,12 @@
   :hnuid "i7l"
   :bio "Writes about machine learning, quantum computing and product management.")
 
+ (:name "Ibrahim Diallo"
+  :site "https://idiallo.com"
+  :feed "https://idiallo.com/feed.rss"
+  :about "https://idiallo.com/aboutme.html"
+  :bio "Software engineer.  Writes about programming and tells workplace stories.")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
