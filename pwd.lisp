@@ -208,6 +208,13 @@
   :hnuid "diasks2"
   :bio "Founder of Ambiki.  Author of The Problem-First Method.")
 
+ (:name "Krysztal Huang"
+  :site "https://blog.krysztal.dev/"
+  :feed "https://blog.krysztal.dev/atom.xml"
+  :about "https://blog.krysztal.dev/about/"
+  :hnuid "krysztal"
+  :bio "Works on low level software and system for future.")
+
  (:name "Kushagra Srivastava"
   :site "https://skushagra.com/"
   :feed "https://skushagra.com/index.xml"
