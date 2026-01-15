@@ -261,6 +261,14 @@
   :hnuid "mike_d"
    :bio "Security researcher.  First engineer at OpenDNS.")
 
+ (:name "Neil Kakkar"
+  :site "https://neilkakkar.com/"
+  :blog "https://neilkakkar.com/blog/"
+  :feed "https://neilkakkar.com/feed.xml"
+  :about "https://neilkakkar.com/about"
+  :hnuid "neilkakkar"
+  :bio "Software engineer. Writes about technology, psychology, and learning how to think.")
+
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
   :feed "https://nchagnet.pages.dev/rss.xml"
