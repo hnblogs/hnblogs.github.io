@@ -27,7 +27,7 @@
   :feed "https://tiniuc.com/atom.xml"
   :about "https://tiniuc.com/about-me"
   :hnuid "tiniuclx"
-  :bio "Embedded software engineer, musician & game developer.")
+  :bio "Embedded software engineer, musician and game developer.")
  
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
