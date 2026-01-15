@@ -197,7 +197,7 @@
   (assert (= (length (validate-hn-uids '((:hnuid "http://foo/")))) 1))
   (assert (= (length (validate-hn-uids '((:hnuid "https://foo/")))) 1)))
 
-  (test-case validate-only-p
+(test-case validate-only-p
   (assert (validate-only-p '("--validate-only")))
   (assert (validate-only-p '("--foo" "--validate-only" "--bar")))
   (assert (not (validate-only-p '())))
