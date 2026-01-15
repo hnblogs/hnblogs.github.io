@@ -22,6 +22,12 @@
   :hnuid "gigatexal"
   :bio "Writes about computers and technology.")
 
+ (:name "Alexander Antsiferov"
+  :site "https://antsiferov.me"
+  :blog "https://blog.yak.supplies"
+  :hnuid "wttr"
+  :bio "An IT sales/project manager turned web developer. Creating value for like-minded people, occasionally sharing programming notes.")
+ 
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
   :feed "https://amontalenti.com/feed"
