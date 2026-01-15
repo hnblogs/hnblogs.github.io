@@ -120,7 +120,7 @@
   :bio "Space researcher and software developer.")
 
  (:name "Dominic Mason"
-  :site "https://domson.dev"
+  :site "https://domson.dev/"
   :feed "https://domson.dev/atom.xml"
   :hnuid "domson-dev"
   :bio "Makes hobby projects of software/electronics/wood etc. Fan of the small web.")
