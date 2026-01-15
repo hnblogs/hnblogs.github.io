@@ -406,6 +406,14 @@
   :about "https://nikhil.io/about/"
   :hnuid "afreeorange"
   :bio "Former fullstack engineer.  Biomedical informatics grad student in NYC.")
+ 
+ (:name "Nikola Balić"
+  :site "https://www.nibzard.com/"
+  :feed "https://www.nibzard.com/rss.xml"
+  :about "https://www.nibzard.com/bio"
+  :now "https://www.nibzard.com/now/"
+  :hnuid "nkko"
+  :bio "Growth leader building AI products.  Writes on agents and startups.")
 
  (:name "Peter Bengtsson"
   :site "https://www.peterbe.com/"
