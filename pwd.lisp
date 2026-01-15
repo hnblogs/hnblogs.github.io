@@ -26,7 +26,7 @@
   :site "https://antsiferov.me"
   :blog "https://blog.yak.supplies"
   :hnuid "wttr"
-  :bio "An IT sales/project manager turned web developer. Creating value for like-minded people, occasionally sharing programming notes.")
+  :bio "An IT sales/project manager turned web developer. Enjoys building useful stuff.")
  
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
