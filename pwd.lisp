@@ -208,6 +208,13 @@
   :hnuid "diasks2"
   :bio "Founder of Ambiki.  Author of The Problem-First Method.")
 
+ (:name "Keshav Rao"
+  :site "https://keshavrao.com/"
+  :blog "https://keshavrao.com/blog/"
+  :feed "https://keshavrao.com/feed.xml"
+  :hnuid "keshav55"
+  :bio "Loves creating experiences people love.")
+
  (:name "Kushagra Srivastava"
   :site "https://skushagra.com/"
   :feed "https://skushagra.com/index.xml"
