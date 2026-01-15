@@ -466,13 +466,6 @@
   :hnuid "philbo"
   :bio "Progressive working class software engineer and dog person.")
 
- (:name "Phil Booth"
-  :site "https://philbooth.me/"
-  :blog "https://philbooth.me/blog"
-  :feed "https://philbooth.me/blog/atom.xml"
-  :hnuid "philbo"
-  :bio "Progressive working class software engineer and dog person.")
-
  (:name "Philip I. Thomas"
   :site "https://philipithomas.com/"
   :blog "https://contraption.co/"
