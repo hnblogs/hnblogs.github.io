@@ -187,11 +187,10 @@
   :hnuid "jszymborski"
   :bio "Computational biology researcher.  Writes about technology and society.")
 
-
  (:name "Joshua Rogers"
   :site "https://joshua.hu/"
   :feed "https://joshua.hu/feed.xml"
-  :about "https://joshus.hu/about"
+  :about "https://joshua.hu/about"
   :hnuid "mmsc"
   :bio "Security Engineer and Hacker.  Writes about cybersecurity, hacking and tech.")
 
