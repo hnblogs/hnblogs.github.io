@@ -313,7 +313,7 @@
   :feed "https://www.silvestar.codes/rss.xml"
   :about "https://www.silvestar.codes/about/"
   :hnuid "starbist"
-  :bio "Web developer, author of the UI Dev Newsletter, and founder of Studio CiTA.")
+  :bio "Web developer, author of the UI Dev Newsletter and founder of Studio CiTA.")
 
  (:name "Simon Willison"
   :site "https://simonwillison.net/"
