@@ -341,6 +341,13 @@
   :hnuid "susam"
   :bio "Creator of Emacs devil-mode.  Writes about technology and mathematics.")
 
+ (:name "Tegan Lamoureux"
+  :site "https://teeg.no/"
+  :blog "https://teeg.no/blog/"
+  :about "https://teeg.no/about.html"
+  :hnuid "birdsongs"
+  :bio "Nostalgic embedded engineer, writes about photography and non-tech topics.")
+
  (:name "Theodore Morley"
   :site "https://tjmorley.com/"
   :blog "https://tjmorley.com/articles.html"
