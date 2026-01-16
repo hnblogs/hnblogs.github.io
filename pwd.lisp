@@ -267,7 +267,7 @@
   :feed "https://neilkakkar.com/feed.xml"
   :about "https://neilkakkar.com/about"
   :hnuid "neilkakkar"
-  :bio "Software engineer. Writes about technology, psychology, and critical thinking.")
+  :bio "Software engineer.  Writes about technology, psychology and critical thinking.")
 
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
