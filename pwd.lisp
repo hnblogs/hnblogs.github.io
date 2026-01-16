@@ -36,12 +36,6 @@
   :about "https://gigatexal.blog/pages/about/about.html"
   :hnuid "gigatexal"
   :bio "Writes about computers and technology.")
-
- (:name "Alexander Antsiferov"
-  :site "https://antsiferov.me"
-  :blog "https://blog.yak.supplies"
-  :hnuid "wttr"
-  :bio "An IT sales/project manager turned web developer.")
  
  (:name "Alex Tiniuc"
   :site "https://tiniuc.com/"
@@ -49,6 +43,12 @@
   :about "https://tiniuc.com/about-me/"
   :hnuid "tiniuclx"
   :bio "Embedded software engineer, musician and game developer.")
+
+ (:name "Alexander Antsiferov"
+  :site "https://antsiferov.me/"
+  :blog "https://blog.yak.supplies/"
+  :hnuid "wttr"
+  :bio "An IT sales/project manager turned web developer.")
 
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
