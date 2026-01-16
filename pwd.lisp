@@ -327,6 +327,13 @@
   :hnuid "philip1209"
   :bio "Writes about crafting digital tools.")
 
+ (:name "Preet Shah"
+  :site "https://shahpreetk.com/"
+  :blog "https://shahpreetk.com/blog"
+  :feed "https://shahpreetk.com/blog/rss.xml"
+  :about "https://shahpreetk.com/portfolio/about-me"
+  :bio "Self-taught Developer, Ardent Kitty lover, Painter (Digital Art too!) and a Software Engineer")
+
  (:name "Rhys Johns"
   :site "https://spikepuppet.io/"
   :feed "https://spikepuppet.io/rss.xml"
@@ -399,6 +406,13 @@
   :feed "https://tonyalicea.dev/feed/feed.xml"
   :hnuid "TonyAlicea10"
   :bio "Udemy and Pluralsight author, conference speaker.  Writes about AI, dev and UX.")
+
+ (:name "Utkarsh Tiwari"
+  :site "https://utk09.com/"
+  :blog "https://utk09.com/blogs"
+  :feed "https://utk09.com/blogs/rss.xml"
+  :hnuid "utk09"
+  :bio "Frontend Developer with over five years of experience building trading UI's and an avid reader of murder mystery novels.")
 
  (:name "Vijeth P H"
   :site "https://vijethph.github.io/"
