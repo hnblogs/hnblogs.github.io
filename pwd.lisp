@@ -393,6 +393,14 @@
   :hnuid "philip1209"
   :bio "Writes about crafting digital tools.")
 
+ (:name "Rasik Jain"
+  :site "https://www.rasikjain.com/"
+  :blog "https://www.rasikjain.com/posts/"
+  :feed "https://www.rasikjain.com/index.xml"
+  :about "https://www.rasikjain.com/about/"
+  :hnuid "rasikjain"
+  :bio "Software engineer specializing in AI/ML, building secure, scalable apps.")
+
  (:name "Rhys Johns"
   :site "https://spikepuppet.io/"
   :feed "https://spikepuppet.io/rss.xml"
@@ -498,14 +506,6 @@
   :feed "https://yashmehrotra.com/index.xml"
   :hnuid "yashmehrotra"
   :bio "Backend and infrastructure engineer.  Author of Hugo Gokarna theme.")
-
- (:name "Rasik Jain"
-  :site "https://www.rasikjain.com/"
-  :blog "https://www.rasikjain.com/posts/"
-  :feed "https://www.rasikjain.com/index.xml"
-  :about "https://www.rasikjain.com/about/"
-  :hnuid "rasikjain"
-  :bio "Software engineer specializing in AI/ML, building secure, scalable apps.")
 
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
