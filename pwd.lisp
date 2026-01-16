@@ -345,6 +345,7 @@
   :site "https://teeg.no/"
   :blog "https://teeg.no/blog/"
   :about "https://teeg.no/about.html"
+  :now "https://teeg.no/now"
   :hnuid "birdsongs"
   :bio "Nostalgic embedded engineer, writes about photography and non-tech topics.")
 
