@@ -3,10 +3,10 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Wed, 14 Jan 2026 00:00:00 UTC</dateCreated>
-    <dateModified>Fri, 16 Jan 2026 04:34:35 UTC</dateModified>
+    <dateModified>Fri, 16 Jan 2026 04:38:08 UTC</dateModified>
   </head>
   <body>
-    <!-- 59 entries -->
+    <!-- 60 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
       <outline type="rss" text="Alan Grow" title="Alan Grow" xmlUrl="https://alangrow.com/blog/atom.xml" htmlUrl="https://alangrow.com/"/>
@@ -67,6 +67,7 @@
       <outline type="rss" text="Vijeth P H" title="Vijeth P H" xmlUrl="https://vijethph.github.io/ruminations/rss.xml" htmlUrl="https://vijethph.github.io/"/>
       <outline type="rss" text="WillAbides" title="WillAbides" xmlUrl="https://willabides.com/index.xml" htmlUrl="https://willabides.com/"/>
       <outline type="rss" text="Xe Iaso" title="Xe Iaso" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl="https://xeiaso.net/"/>
+      <outline type="rss" text="Yash Mehrotra" title="Yash Mehrotra" xmlUrl="https://yashmehrotra.com/index.xml" htmlUrl="https://yashmehrotra.com/"/>
     </outline>
   </body>
 </opml>
