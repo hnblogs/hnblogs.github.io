@@ -576,6 +576,12 @@
   :hnuid "TonyAlicea10"
   :bio "Udemy and Pluralsight author, conference speaker.  Writes about AI, dev and UX.")
 
+ (:name "Vermaden"
+  :site "https://vermaden.wordpress.com/"
+  :feed "https://vermaden.wordpress.com/feed/"
+  :hnuid "vermaden"
+  :bio "Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.")
+
  (:name "Vijeth P H"
   :site "https://vijethph.github.io/"
   :blog "https://vijethph.github.io/ruminations/"
