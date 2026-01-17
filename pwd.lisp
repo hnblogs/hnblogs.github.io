@@ -526,6 +526,12 @@
   :hnuid "rkallos"
   :bio "Canadian Elixir developer.  Writes about coding and living.")
 
+ (:name "Robert Ismo"
+  :site "https://robertismo.com/"
+  :feed "https://robertismo.com/index.xml"
+  :hnuid "iamrobertismo"
+  :bio "I write about Free Software, non-profit stuff and self hosting.")
+
  (:name "Sam Broner"
   :site "https://sambroner.com/"
   :feed "https://sambroner.com/rss.xml"
