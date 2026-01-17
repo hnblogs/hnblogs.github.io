@@ -322,7 +322,7 @@
 
  (:name "Stefan Judis"
   :site "https://www.stefanjudis.com/"
-  :blog "https://www.stefanjudis.com/blog"
+  :blog "https://www.stefanjudis.com/blog/"
   :feed "https://www.stefanjudis.com/rss.xml"
   :about "https://www.stefanjudis.com/about/"
   :hnuid "stefanjudis"
