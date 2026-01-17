@@ -385,7 +385,7 @@
   :blog "https://www.mikekasberg.com/blog/"
   :feed "https://www.mikekasberg.com/feed.xml"
   :hnuid "mkasberg"
-  :bio "Husband. Father. Software engineer. Ubuntu Linux user.")
+  :bio "Husband.  Father.  Software engineer.  Ubuntu Linux user.")
 
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
