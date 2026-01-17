@@ -450,6 +450,15 @@
   :hnuid "abareplace"
   :bio "C/C++ and x86 assembly language.")
 
+ (:name "Peter's Path"
+  :site "https://peterspath.net/"
+  :blog "https://peterspath.net/blog/"
+  :feed "https://peterspath.net/rss.xml"
+  :about "https://peterspath.net/about/"
+  :now "https://peterspath.net/now/"
+  :hnuid "peterspath"
+  :bio "Development, hiking, reading, embracing nature, faith and ideas.")
+
  (:name "Phil Booth"
   :site "https://philbooth.me/"
   :blog "https://philbooth.me/blog"
