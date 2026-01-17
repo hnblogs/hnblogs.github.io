@@ -37,6 +37,22 @@
                             "avoid Oxford comma)") (getf item :name)) errors))))
     (reverse errors)))
 
+(defun validate-bio-person (items)
+  "Check if any evidence of first person language is found."
+  (let ((bio)
+        (errors))
+    (dolist (item items)
+      (when (setf bio (getf item :bio))
+        (when (or (string-starts-with-p "I " bio)
+                  (string-starts-with-p "I'" bio)
+                  (string-ends-with-p " I." bio)
+                  (search " I " bio)
+                  (search " I'" bio))
+          (push (fstr (jstr "~a: Bio must not contain the word 'I' ("
+                            "write in the third person)")
+                      (getf item :name)) errors))))
+    (reverse errors)))
+
 (defun validate-bio-spacing (items)
   "Check if the bio uses double spacing convention."
   ;; Checking the double-spacing convention is a non-trivial problem
@@ -120,6 +136,7 @@
                         (validate-urls items)
                         (validate-unique-urls items)
                         (validate-bio-basic items)
+                        (validate-bio-person items)
                         (validate-bio-spacing items)
                         (validate-hn-uids items))))
     (when (consp errors)
@@ -127,12 +144,12 @@
             do (format *error-output* "ERROR: ~a~%" error))
       (uiop:quit 1))))
 
-(defvar *main-mode* t
-  "Run main function iff T.  Should be set to NIL in tests.")
+(defvar *lint-mode* t
+  "Run linter iff T.  Should be set to NIL in tests.")
 
-(defun main ()
+(defun lint ()
   "Validate directory data."
   (validate (read-entries "pwd.lisp")))
 
-(when *main-mode*
-  (main))
+(when *lint-mode*
+  (lint))

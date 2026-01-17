@@ -119,14 +119,14 @@
     (format s "  </body>~%")
     (format s "</html>~%")))
 
-(defvar *main-mode* t
+(defvar *gen-mode* t
   "Run main function iff T.  Should be set to NIL in tests.")
 
-(defun main ()
+(defun gen ()
   "Create artefacts."
   (let ((entries (read-entries "pwd.lisp")))
     (write-file "web/hnpwd.opml" (make-opml entries))
     (write-file "web/index.html" (make-html entries))))
 
-(when *main-mode*
-  (main))
+(when *gen-mode*
+  (gen))

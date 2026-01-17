@@ -36,6 +36,15 @@
   (and (<= (length prefix) (length string))
        (string= prefix string :end2 (length prefix))))
 
+
+(defun string-ends-with-p (suffix string)
+  "Check if the given string ends with the given suffix."
+  (let ((suffix-length (length suffix))
+        (string-length (length string)))
+    (and (<= suffix-length string-length)
+         (string= suffix string
+                  :start2 (- string-length suffix-length)))))
+
 (defun string-trim-prefix (prefix string)
   "Remove the given prefix from the given string."
   (if (string-starts-with-p prefix string)

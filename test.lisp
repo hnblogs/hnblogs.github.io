@@ -50,7 +50,8 @@
 ;;; Begin Test Cases
 ;;; ----------------
 
-(defvar *main-mode* nil)
+(defvar *gen-mode* nil)
+(defvar *lint-mode* nil)
 (load "gen.lisp")
 (load "lint.lisp")
 
@@ -89,6 +90,14 @@
   (assert (string-starts-with-p "foo" "foobar"))
   (assert (not (string-starts-with-p "foo" "")))
   (assert (not (string-starts-with-p "foo" "barfoo"))))
+
+(test-case string-ends-with-p
+  (assert (string-ends-with-p "" ""))
+  (assert (string-ends-with-p "" "foo"))
+  (assert (string-ends-with-p "foo" "foo"))
+  (assert (string-ends-with-p "foo" "barfoo"))
+  (assert (not (string-ends-with-p "foo" "")))
+  (assert (not (string-ends-with-p "foo" "foobar"))))
 
 (test-case string-trim-prefix
   (assert (string= (string-trim-prefix "" "") ""))
@@ -148,6 +157,18 @@
   ;; 1 error: Bio length is 81 but maximum length is 80.
   (let ((bio "12345678901234567890123456789012345678901234567890123456789012345678901234567890."))
     (assert (= (length (validate-bio-basic `((:bio ,bio)))) 1))))
+
+(test-case validate-bio-person
+  (assert (= (length (validate-bio-person '((:bio "Foo Bar.")))) 0))
+  (assert (= (length (validate-bio-person '((:bio "I am Foo.")))) 1))
+  (assert (= (length (validate-bio-person '((:bio "I'm Foo.")))) 1))
+  (assert (= (length (validate-bio-person '((:bio "Foo am I.")))) 1))
+  (assert (= (length (validate-bio-person '((:bio "Foo I am.")))) 1))
+  (assert (= (length (validate-bio-person '((:bio "Foo I'm.")))) 1))
+  (assert (= (length (validate-bio-person '((:bio "Foo Bar.")
+                                            (:bio "I am Foo.")
+                                            (:bio "Foo I am.")
+                                            (:bio "Foo am I.")))) 3)))
 
 (test-case validate-bio-spacing
   (assert (= (length (validate-bio-spacing '((:bio "Foo.  Bar.  Baz.")))) 0))
