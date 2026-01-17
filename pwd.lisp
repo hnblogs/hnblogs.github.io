@@ -434,6 +434,13 @@
   :hnuid "philip1209"
   :bio "Writes about crafting digital tools.")
 
+  (:name "Priyatham Bazaru"
+  :site "https://priyatham.in/"
+  :blog "https://priyatham.in/en/post"
+  :feed "https://priyatham.in/en/post/index.xml"
+  :hnuid "vasquezempereur"
+  :bio "Tech Lead and a hobbyist self-hoster")
+
  (:name "Rhys Johns"
   :site "https://spikepuppet.io/"
   :feed "https://spikepuppet.io/rss.xml"
