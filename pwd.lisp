@@ -80,6 +80,12 @@
  :hnuid "heyamitkmr"
  :bio "Building software, taking pictures and writing while exploring what's next.")
 
+ (:name "Andre Franca"
+  :site "https://afranca.com.br/"
+  :feed "https://afranca.com.br/rss/"
+  :about "https://afranca.com.br/about/"
+  :bio "Tech nerd and open source enthusiast.")
+
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
   :feed "https://amontalenti.com/feed"
