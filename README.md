@@ -34,20 +34,28 @@ Add Your Website
 Please check whether a website meets **all** of the following criteria
 before requesting its inclusion in the directory:
 
- 1. **Author-Controlled Website**
+ 1. **Personal Website**
+
+    The website must be a personal website.  It should not be a
+    company website or a community website.  The website should belong
+    to an individual.
+
+ 2. **Author-Controlled Website**
 
     The website must be a personal website where the author has full
     control over its design, content and presentation.  This includes
     control over layout, styling and monetisation.  Websites hosted on
-    platforms that may inject advertisements, branding or other
-    third-party content, or that otherwise limit the author's control
-    over design or presentation, do not meet this criterion.
+    platforms that inject advertisements, branding or other third
+    party content do not meet this criterion.  Similarly, websites on
+    platforms that limit the author's control over design or
+    presentation in any way do not qualify.
 
     Websites hosted on personal domains clearly qualify.  Websites
-    hosted on services such as Neocities, GitHub Pages or Codeberg Pages
-    also qualify, as these platforms allow full control over the site's
-    design.  However, blogs hosted on publishing platforms such as
-    Medium or Substack do not qualify.
+    hosted on services such as Neocities, GitHub Pages or Codeberg
+    Pages also qualify, as these platforms allow full control over the
+    site's design.  However, blogs hosted on publishing platforms such
+    as Medium, Substack or the free WordPress.com service do not
+    qualify.
 
     Note: This requirement is about control, not quality.  Many
     excellent blogs fall outside the scope of this directory.
@@ -193,7 +201,30 @@ FAQ
     Contributions that add entries to this project, whether sourced
     from that list or elsewhere, are very welcome.
 
+ 3. I posted my website to your [megathread on HN][hnt].  Why is it
+    not added to the directory yet?
+
+    We received over 2000 website suggestions on that thread. Each
+    submission requires a brief visual review to ensure it is a good
+    fit for this directory, and this process cannot be fully
+    automated.  As a result, it is likely to take several months to
+    work through all the suggestions we received.
+
+    To track our progress, you can follow our backlog here:
+    [repo][backlog-repo], [table][backlog-table].
+
+ 4. Can I contribute my time and help you make progress faster?
+
+    Yes, certainly. Currently, we are only two people working through
+    the backlog. If you would like to help, please join us in our IRC
+    channel [#hnpwd][IRC]. You may need to stay connected for a while
+    after asking, as not all volunteers are present at all hours of
+    the day.
+
 [outcoldman]: https://github.com/outcoldman/hackernews-personal-blogs
+[hnt]: https://news.ycombinator.com/item?id=46618714
+[backlog-repo]: https://github.com/hnpwd/backlog
+[backlog-table]: https://github.com/hnpwd/backlog/blob/main/backlog.md
 
 
 Licence
