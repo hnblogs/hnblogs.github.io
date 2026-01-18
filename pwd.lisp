@@ -72,6 +72,14 @@
   :hnuid "onlyoneaman"
   :bio "Full-stack AI engineer.  Turns fuzzy ideas into live products quickly.")
 
+ (:name "Amit Kumar"
+ :site "https://nextfive.xyz/"
+ :feed "https://nextfive.xyz/feed.xml"
+ :about "https://nextfive.xyz/about/"
+ :now "https://nextfive.xyz/now/"
+ :hnuid "heyamitkmr"
+ :bio "Building software, taking pictures and writing while exploring what's next.")
+
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
   :feed "https://amontalenti.com/feed"
@@ -418,7 +426,7 @@
   :feed "https://trms.me/feed/"
   :hnuid "trms"
   :bio "Product manager.  Writes about knowledge management and random hobbies.")
- 
+
  (:name "Mackenzie Criswell"
   :site "https://makc.co/"
   :blog "https://makc.co/essays/"
