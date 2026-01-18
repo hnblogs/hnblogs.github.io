@@ -609,6 +609,12 @@
   :hnuid "philip1209"
   :bio "Writes about crafting digital tools.")
 
+ (:name "Pradeep Gowda"
+  :site "https://maxim.usindic.us/"
+  :feed "https://maxim.usindic.us/feeds/main.xml"
+  :hnuid "btbytes"
+  :bio "Writes primarily about technology, but is not limited by it.")
+
  (:name "Preet Shah"
   :site "https://shahpreetk.com/"
   :blog "https://shahpreetk.com/blog"
