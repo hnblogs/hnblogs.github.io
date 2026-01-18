@@ -375,11 +375,10 @@
   :bio "Product manager.  Writes about knowledge management and random hobbies.")
 
  (:name "Marijan Smetko"
-  :site "https://msmetko.xyz/"
-  :blog "https://terra-incognita.blog/"
+  :site "https://terra-incognita.blog/"
   :feed "https://terra-incognita.blog/feed.rss"
   :hnuid "incognito124"
-  :bio "Blogger, public speaker, space nerd, tech geek, and private pilot.")
+  :bio "Blogger, public speaker, space nerd, tech geek and private pilot.")
 
  (:name "Matt Crampton"
   :site "https://www.mattcrampton.com/"
@@ -537,7 +536,7 @@
   :site "https://robertismo.com/"
   :feed "https://robertismo.com/index.xml"
   :hnuid "iamrobertismo"
-  :bio "I write about Free Software, non-profit stuff and self hosting.")
+  :bio "Writes about free software, non-profit stuff and self-hosting.")
 
  (:name "Sam Broner"
   :site "https://sambroner.com/"
