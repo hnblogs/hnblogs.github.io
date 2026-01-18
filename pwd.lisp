@@ -406,8 +406,7 @@
   :bio "Mobile developer.  Writes both work and personal stuff.")
 
  (:name "Lei Wang"
-  :site "https://leiw.ai/"
-  :blog "https://blog.leiw.ai/"
+  :site "https://blog.leiw.ai/"
   :feed "https://blog.leiw.ai/feed.xml"
   :about "https://blog.leiw.ai/about/"
   :now "https://blog.leiw.ai/now/"
@@ -463,7 +462,7 @@
   :hnuid "xnacly"
   :bio "Writes about compilers and hardware.  Contributes to open source software.")
 
-(:name "Matthew Brunelle"
+ (:name "Matthew Brunelle"
   :site "https://blog.matthewbrunelle.com/"
   :feed "https://blog.matthewbrunelle.com/rss/"
   :about "https://blog.matthewbrunelle.com/about/"
@@ -716,7 +715,7 @@
   :hnuid "morleytj"
   :bio "Software developer and scientist at the Center for Digital Genomic Medicine.")
 
-  (:name "Thomas Tartière"
+ (:name "Thomas Tartière"
   :site "https://thomastartiere.com/"
   :blog "https://thomastartiere.com/blog"
   :hnuid "tartieret"
