@@ -72,24 +72,24 @@ before requesting its inclusion in the directory:
  4. **Substantive Personal Content**
 
     The website must contain substantive content such as articles,
-    blog posts, projects or games developed by the author.  Websites
-    that consist only of a CV or portfolio are not suitable for
-    inclusion in this directory.  This requirement helps keep the
-    directory interesting and prevents it from becoming a collection
-    of minimal or placeholder websites with little value to the
-    community.
+    blog posts, projects or games developed by the author.  This
+    content must be hosted on the website itself.  Websites that
+    merely link to content hosted elsewhere are not accepted.
+    Websites consisting only of a CV or portfolio are also not
+    suitable for inclusion.  This requirement helps keep the directory
+    interesting and prevents it from becoming a collection of minimal
+    or placeholder websites with little value to the community.
 
     Websites with only a small number of pages or articles are usually
-    not included immediately.  However, they are not rejected
-    outright.  Instead, we wait until more content is added before
-    considering them for inclusion in the directory.  As a general
-    guideline, we expect 5 or more substantive articles or other
-    original works (excluding usual meta pages such as about, contact,
-    etc.).  Exceptions may be made in some cases, for example when a
-    site has only a few posts but one or more of them have been very
-    well received on HN.  This requirement helps ensure that visitors
-    arriving from the directory will find enough interesting content
-    to explore.
+    not included immediately.  Instead, we wait until more content is
+    added before considering them for inclusion in the directory.  As
+    a general guideline, we expect 5 or more substantive articles or
+    other original works (excluding usual meta pages such as about,
+    contact, etc.).  Exceptions may be made in some cases, for example
+    when a site has only a few posts but one or more of them have been
+    very well received on HN.  This requirement helps ensure that
+    visitors arriving from the directory will find enough interesting
+    content to explore.
 
  4. **Human Authorship**
 
@@ -111,8 +111,8 @@ before requesting its inclusion in the directory:
 
 Add the website details to [pwd.lisp][lisp] and submit a pull request.
 
-An template entry is provided at the bottom of [pwd.lisp][lisp] and
-can be copied and modified as a starting point.  When creating a pull
+A template entry is provided at the bottom of [pwd.lisp][lisp] and can
+be copied and modified as a starting point.  When creating a pull
 request, please follow these guidelines:
 
  1. Keep all website entries sorted alphabetically by name.
