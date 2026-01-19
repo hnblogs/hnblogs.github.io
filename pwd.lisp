@@ -19,6 +19,11 @@
   :hnuid "adityaathalye"
   :bio "Words code talks 'n demos with Clojure, Bash and Bitemporal DB SaaS.")
 
+ (:name "Agu Rodríguez"
+  :site "https://agu.uy/"
+  :blog "https://agu.uy/blog"
+  :bio "Tech entrepreneur.  Builds and ships software.  Leads product and engineering.")
+
  (:name "Aishwarya Goel"
   :site "https://aishwaryagoel.com/"
   :blog "https://aishwaryagoel.com/blog/"
