@@ -309,7 +309,7 @@
   :blog "https://hdocmsu.github.io/blog/"
   :feed "https://hdocmsu.github.io/feed.xml"
   :hnuid "hdoMRIphysics"
-  :bio "Creator of The Art of MRI Physics (AoMP).  Writing math, physics, and Python for MRI.")
+  :bio "Creator of The Art of MRI Physics.  Writing about math, physics and Python for MRI.")
  
  (:name "Ian Reppel"
   :site "https://ianreppel.org/"
