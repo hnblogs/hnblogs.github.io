@@ -807,6 +807,13 @@
   :hnuid "morleytj"
   :bio "Software developer and scientist at the Center for Digital Genomic Medicine.")
 
+ (:name "Tom Clancy"
+  :site "https://tomclancy.info/"
+  :feed "https://tomclancy.info/feeds/all.atom.xml"
+  :about "https://tomclancy.info/pages/about.html"
+  :hnuid "tclancy"
+  :bio "Developer and consultant taking apps from sketches to production.")
+
  (:name "Thomas Tartière"
   :site "https://thomastartiere.com/"
   :blog "https://thomastartiere.com/blog"
