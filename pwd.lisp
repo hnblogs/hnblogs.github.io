@@ -566,6 +566,13 @@
   :hnuid "mkasberg"
   :bio "Husband.  Father.  Software engineer.  Ubuntu Linux user.")
 
+ (:name "Min Hsu"
+  :site "https://myhsu.xyz/"
+  :blog "https://myhsu.xyz/blog/"
+  :feed "https://myhsu.xyz/index.xml"
+  :hnuid "mshockwave"
+  :bio "Compiler engineer.  LLVM contributor.")
+
  (:name "Nabraj"
   :site "https://nabraj.com/"
   :blog "https://nabraj.com/blog"
