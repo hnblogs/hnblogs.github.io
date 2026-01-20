@@ -233,6 +233,13 @@
   :hnuid "d_silin"
   :bio "Space researcher and software developer.")
 
+ (:name "Devon Winrick"
+  :site "https://blog.winricklabs.com/"
+  :feed "https://blog.winricklabs.com/rss.xml"
+  :about "https://blog.winricklabs.com/(5-5-2019)-about-this.html"
+  :hnuid "winrid"
+  :bio "Writes software, plays with cars in the dirt and optimizes databases.")
+
  (:name "Dmitrij Loktev"
   :site "https://potomushto.com/"
   :feed "https://potomushto.com/feed.xml"
