@@ -34,7 +34,7 @@
     (format s "  </head>~%")
     (format s "  <body>~%")
     (format s "    <!-- ~a entries -->~%" (length items))
-    (format s "    <outline text=\"HN Personal Websites\" title=\"HN Personal Websites\">~%")
+    (format s "    <outline text=\"HN Personal Websites\">~%")
     (loop for item in items
           do (format s "~a" (make-opml-outline item)))
     (format s "    </outline>~%")

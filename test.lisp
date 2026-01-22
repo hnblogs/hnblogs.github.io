@@ -109,11 +109,11 @@
 
 (test-case format-date
   (assert (string= (format-date (encode-universal-time 0 0 0 14 1 2026 0))
-                   "Wed, 14 Jan 2026 00:00:00 UTC"))
+                   "Wed, 14 Jan 2026 00:00:00 +0000"))
   (assert (string= (format-date (encode-universal-time 0 0 0 14 1 2026 5))
-                   "Wed, 14 Jan 2026 05:00:00 UTC"))
+                   "Wed, 14 Jan 2026 05:00:00 +0000"))
   (assert (string= (format-date (encode-universal-time 0 0 0 14 1 2026 -11/2))
-                   "Tue, 13 Jan 2026 18:30:00 UTC")))
+                   "Tue, 13 Jan 2026 18:30:00 +0000")))
 
 (test-case parse-domain
   (assert (string= (parse-domain "https://foo/") "foo"))

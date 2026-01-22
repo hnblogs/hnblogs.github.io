@@ -66,7 +66,7 @@
   (multiple-value-bind (second minute hour date month year day dst)
       (decode-universal-time universal-time 0)
     (declare (ignore dst))
-    (fstr "~a, ~2,'0d ~a ~4,'0d ~2,'0d:~2,'0d:~2,'0d UTC"
+    (fstr "~a, ~2,'0d ~a ~4,'0d ~2,'0d:~2,'0d:~2,'0d +0000"
           (weekday-name day) date (month-name month) year
           hour minute second)))
 
