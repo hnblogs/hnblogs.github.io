@@ -779,6 +779,14 @@
   :hnuid "samwho"
   :bio "Writes visual, interactive essays about software.")
 
+ (:name "Scott Harden"
+  :site "https://swharden.com/"
+  :blog "https://swharden.com/blog/posts/"
+  :feed "https://swharden.com/blog/feed/"
+  :about "https://swharden.com/about/"
+  :hnuid "swharden"
+  :bio "Passionate about programming, electrical engineering, and maintaining open source hardware and software projects.")
+
  (:name "Sean Goedecke"
   :site "https://www.seangoedecke.com/"
   :feed "https://www.seangoedecke.com/rss.xml"
