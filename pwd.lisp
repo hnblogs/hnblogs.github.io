@@ -376,7 +376,7 @@
   :site "https://www.immibis.com/blog/"
   :about "https://www.immibis.com/aboutme/"
   :hnuid "immibis"
-  :bio "Interested in the lower layers of computing, reverse engineering, and networks.")
+  :bio "Interested in the lower layers of computing, reverse engineering and networks.")
 
  (:name "Ivar Abrahamsen"
   :site "https://flurdy.com/"
