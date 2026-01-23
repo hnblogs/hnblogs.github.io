@@ -274,6 +274,12 @@
   :hnuid "domson-dev"
   :bio "Makes hobby projects of software, electronics, wood, etc.  Fan of the small web.")
 
+ (:name "Doug Hammond"
+  :site "https://doug.lon.dev/"
+  :blog "https://doug.lon.dev/blog"
+  :hnuid "wdfx"
+  :bio "Software engineer, musician and maker based in South London.")
+
  (:name "Doug Slater"
   :site "https://www.slater.dev/"
   :feed "https://www.slater.dev/atom.xml"
