@@ -785,7 +785,7 @@
   :feed "https://swharden.com/blog/feed/"
   :about "https://swharden.com/about/"
   :hnuid "swharden"
-  :bio "Passionate about programming, electrical engineering, and maintaining open source hardware and software projects.")
+  :bio "Passionate about programming, electrical engineering and open source hardware and software projects.")
 
  (:name "Sean Goedecke"
   :site "https://www.seangoedecke.com/"
