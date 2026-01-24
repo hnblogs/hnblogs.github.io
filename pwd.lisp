@@ -246,6 +246,7 @@
  (:name "Daniel Murrell"
   :site "https://dsmurrell.com/"
   :blog "https://dsmurrell.com/articles/"
+  :about "https://dsmurrell.com/about/"
   :hnuid "dsmurrell"
   :bio "Builds projects with Cursor and writes about it.")
 
