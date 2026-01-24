@@ -562,6 +562,14 @@
   :hnuid "mjd"
   :bio "Programmer and amateur mathematician.  Very eclectic subject matter.")
 
+ (:name "Massimo Redaelli"
+  :site "https://italianpoetry.it/"
+  :blog "https://italianpoetry.it/poems/"
+  :feed "https://italianpoetry.it/poems/index.xml"
+  :about "https://italianpoetry.it/about/"
+  :hnuid "ItalianPoetry"
+  :bio "Wants everyone to read (and listen to) Italian poetry as if they spoke Italian.")
+
  (:name "Matt Crampton"
   :site "https://www.mattcrampton.com/"
   :feed "https://www.mattcrampton.com/feed.xml"
