@@ -103,6 +103,12 @@
   :about "https://afranca.com.br/about/"
   :bio "Tech nerd and open source enthusiast.")
 
+ (:name "Andrew Graham-Yooll"
+  :site "https://andrew.grahamyooll.com/"
+  :blog "https://andrew.grahamyooll.com/blog/"
+  :hnuid "yuppiepuppie"
+  :bio "Works on distributed systems and APIs, surfs, cycles and maintains OOS.")
+
  (:name "Andrew Montalenti"
   :site "https://amontalenti.com/"
   :feed "https://amontalenti.com/feed"
