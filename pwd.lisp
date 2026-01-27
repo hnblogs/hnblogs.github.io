@@ -659,7 +659,7 @@
   :blog "https://akr.am/blog/"
   :feed "https://akr.am/blog/feed.xml"
   :hnuid "thefilmore"
-  :bio "Full stack engineer.  Interested in IoT and Financial Industries.")
+  :bio "Full stack engineer interested in IoT and financial industries.")
 
  (:name "Nabraj"
   :site "https://nabraj.com/"
