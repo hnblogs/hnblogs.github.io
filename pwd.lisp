@@ -628,13 +628,6 @@
   :hnuid "michaelsalim"
   :bio "Full-stack freelancer.  Develops open-source libraries and web services.")
 
- (:name "Mohamed Akram"
-  :site "https://akr.am/"
-  :blog "https://akr.am/blog/"
-  :feed "https://akr.am/blog/feed.xml"
-  :hnuid "thefilmore"
-  :bio "Full stack engineer.  Interested in IoT and Financial Industries.")
-
  (:name "Mike Cardwell"
   :site "https://www.grepular.com/"
   :blog "https://www.grepular.com/blog/"
@@ -660,6 +653,13 @@
   :feed "https://myhsu.xyz/index.xml"
   :hnuid "mshockwave"
   :bio "Compiler engineer.  LLVM contributor.")
+
+ (:name "Mohamed Akram"
+  :site "https://akr.am/"
+  :blog "https://akr.am/blog/"
+  :feed "https://akr.am/blog/feed.xml"
+  :hnuid "thefilmore"
+  :bio "Full stack engineer.  Interested in IoT and Financial Industries.")
 
  (:name "Nabraj"
   :site "https://nabraj.com/"
