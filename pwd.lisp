@@ -173,6 +173,14 @@
   :hnuid "beast-hacker"
   :bio "Makes small things on the Internet.")
 
+ (:name "Ben D'Angelo"
+  :site "https://bendangelo.me/"
+  :feed "https://bendangelo.me/feed.xml"
+  :about "https://bendangelo.me/about/"
+  :now "https://bendangelo.me/now/"
+  :hnuid "bendangelo"
+  :bio "Writes about Ruby on Rails, AI and website and app development.")
+
  (:name "Brajeshwar Oinam"
   :site "https://brajeshwar.com/"
   :feed "https://brajeshwar.com/feed.xml"
