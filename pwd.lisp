@@ -570,6 +570,14 @@
   :hnuid "makc"
   :bio "Writes about technology and other things.  Sometimes publishes free stuff.")
 
+ (:name "Marco Labarile"
+  :site "https://marcolabarile.me/"
+  :feed "https://marcolabarile.me/feed.xml"
+  :about "https://marcolabarile.me/about/"
+  :now "https://marcolabarile.me/now/"
+  :hnuid "labarilem"
+  :bio "Senior SWE who writes about side projects and fun experiments")
+
  (:name "Marijan Smetko"
   :site "https://terra-incognita.blog/"
   :feed "https://terra-incognita.blog/feed.rss"
