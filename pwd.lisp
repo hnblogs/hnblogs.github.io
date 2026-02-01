@@ -327,7 +327,7 @@
   :feed "https://ed-thomas.dev/rss.xml"
   :now "https://ed-thomas.dev/now/"
   :hnuid "pixel87"
-  :bio "Comp Sci student, making things.")
+  :bio "Computer science student.  Writes about building personal projects.")
 
  (:name "Eldridge Alexander"
   :site "https://eldrid.ge/"
